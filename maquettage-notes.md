@@ -17,7 +17,6 @@ Les outils de maquettage sont généralement des application servant a produire 
 Dans les plus populaires on retrouve **figma** recommandé pour son aspect collaboratif. Ou encore **mockflow** qui possède une grande bibliothèque UI abondante.   
 
 ## Cadrer la demande client
-okfqzpofzo
 
 
 ## Les règles ergonomiques et d'expériences utilisateurs 
